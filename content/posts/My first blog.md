@@ -12,8 +12,8 @@ tags:
 
 ## The Startup
 
-- I am now writing the blog, adding all the details that it needs to have, and it looking pretty nice so far.
-- I generally want this to be like a tutorial so i I'll start walking you through it, or you can just watch the video both are valid options.
+- I am now writing this blog, adding all the details that it needs to have, and its looking pretty nice so far.
+- I generally want this to be like a tutorial so i I'll start walking you through it, or you can just watch the video posted by NetworkChuck, both are valid options.
 
 ## step 1: Obsidian setup
 
