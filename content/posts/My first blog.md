@@ -10,7 +10,7 @@ tags:
 
 - I'm currently following a networkchuck video, and i think its great! Its showing how to make a blog (web log) easily, i think you need to go check it out: https://youtu.be/dnE7c0ELEH8
 
-## The process
+## The Startup
 
 - I am now writing the blog, adding all the details that it needs to have, and it looking pretty nice so far.
 - I generally want this to be like a tutorial so i I'll start walking you through it, or you can just watch the video both are valid options.
